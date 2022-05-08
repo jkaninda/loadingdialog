@@ -72,6 +72,10 @@ loadingDialog=LoadingDialog(this)
 //Start dialog
 loadingDialog.startLoadingDialog(true)
 
+//Dismiss dialog
+loadingDialog.dismissDialog()
+
+
  
 ```
 
