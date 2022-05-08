@@ -78,14 +78,14 @@ loadingDialog.startLoadingDialog(true)
 
 <h2 id="examples">Examples :eyes:</h2>
 
-Download the [Goma Example App]() or look at the [source code](https://github.com/jkaninda/loadingdialog/tree/master/app).
+Download the [Loading Dialog Example App]() or look at the [source code](https://github.com/jkaninda/loadingdialog/tree/master/app).
 
 
 <br/>
 
 ## Authors
 
-* **Jonas Kaninda**  - [jkanTech](https://github.com/jkaninda)
+* **Jonas Kaninda**  - [jkaninda](https://github.com/jkaninda)
 
 
 ## License
