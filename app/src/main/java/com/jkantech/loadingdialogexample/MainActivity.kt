@@ -7,7 +7,7 @@ import com.github.jkaninda.loadingdialog.LoadingDialog
 import com.jkantech.loadingdialogexample.databinding.ActivityMainBinding
 
 class MainActivity : AppCompatActivity() {
-    lateinit var loadingDialog: LoadingDialog
+    private lateinit var loadingDialog: LoadingDialog
     lateinit var binding:ActivityMainBinding
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
