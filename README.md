@@ -1,0 +1,2 @@
+# loadingdialog
+Android Loading dialog
