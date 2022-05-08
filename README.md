@@ -79,6 +79,10 @@ loadingDialog.dismissDialog()
  
 ```
 
+### Screenshots
+
+<img src="Screen_Shot_2022-05-08 at 10.36.41.png" align="left" width="150px"/>
+
 
 <h2 id="examples">Examples :eyes:</h2>
 
